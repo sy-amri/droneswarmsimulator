@@ -1,0 +1,14 @@
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\bin\Debug\net8.0\adsHomework1.exe
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\bin\Debug\net8.0\adsHomework1.deps.json
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\bin\Debug\net8.0\adsHomework1.runtimeconfig.json
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\bin\Debug\net8.0\adsHomework1.dll
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\bin\Debug\net8.0\adsHomework1.pdb
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.AssemblyInfoInputs.cache
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.AssemblyInfo.cs
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.csproj.CoreCompileInputs.cache
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.dll
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\refint\adsHomework1.dll
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.pdb
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\adsHomework1.genruntimeconfig.cache
+C:\Users\amrih\Documents\Personal Projects\adsHomework1\obj\Debug\net8.0\ref\adsHomework1.dll

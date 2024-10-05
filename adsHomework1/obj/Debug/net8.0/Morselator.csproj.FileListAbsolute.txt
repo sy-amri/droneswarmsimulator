@@ -1,0 +1,14 @@
+C:\Users\amrih\Documents\Personal Projects\Morselator\bin\Debug\net8.0\Morselator.exe
+C:\Users\amrih\Documents\Personal Projects\Morselator\bin\Debug\net8.0\Morselator.deps.json
+C:\Users\amrih\Documents\Personal Projects\Morselator\bin\Debug\net8.0\Morselator.runtimeconfig.json
+C:\Users\amrih\Documents\Personal Projects\Morselator\bin\Debug\net8.0\Morselator.dll
+C:\Users\amrih\Documents\Personal Projects\Morselator\bin\Debug\net8.0\Morselator.pdb
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.AssemblyInfoInputs.cache
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.AssemblyInfo.cs
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.csproj.CoreCompileInputs.cache
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.dll
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\refint\Morselator.dll
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.pdb
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\Morselator.genruntimeconfig.cache
+C:\Users\amrih\Documents\Personal Projects\Morselator\obj\Debug\net8.0\ref\Morselator.dll
